@@ -6,3 +6,5 @@ And some more lines
 
 # Chapter for additions of trainees
 
+Bosyho zmena
+  a jeji druhy radek
